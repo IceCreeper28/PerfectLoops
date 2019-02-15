@@ -1,7 +1,5 @@
 # PerfectLoops
 
-[TOC]
-
 ## About
 
 This repository contains Processing sketches, that generate perfectly looped gifs.

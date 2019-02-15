@@ -12,5 +12,5 @@ Easing functions from top to bottom:
 
 Easing functions taken from [jesusgollonet/processing-penner-easing](https://github.com/jesusgollonet/processing-penner-easing).
 
-![out](https://github.com/IceCreeper28/PerfectLoops/MovingRectangles/out/out.gif)
+![out](https://github.com/IceCreeper28/PerfectLoops/blob/master/MovingRectangles/out/out.gif)
 
